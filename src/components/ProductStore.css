@@ -1,0 +1,37 @@
+.header {
+    text-align: center;
+    background-color:#20232a;
+    color: rgb(97, 218, 251);
+}
+
+.form{
+    padding-left:50px;
+    background-color:#20232a;
+    color: rgb(97, 218, 251);
+}
+
+.store {
+    background-color:#20232a;
+    color: rgb(97, 218, 251);  
+}
+
+
+.form-input{
+  width: 25%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border-color: rgb(83, 177, 240);
+}
+
+button {
+    width: 10%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    background-color:  rgb(97, 218, 251);
+    color: white;
+    margin-left: 70px;
+    border-radius: 10px;
+    box-sizing: border-box;
+    
+}
